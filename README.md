@@ -13,11 +13,11 @@
  * Download the app or just simple clone the project
  * You can run the app either on a physical device or a simulator with iOS 13 and above.
  
- ##Screenshot
+ ## Screenshot
  ![FirstPicture](./Users/dayton/Desktop/Apple Academy Document/Nano Challenge 3/Images/1)
  ![SecondPicture](./Users/dayton/Desktop/Apple Academy Document/Nano Challenge 3/Images/2)
  
- ##Sources
+ ## Sources
  *[API Link](https://openaccess-api.clevelandart.org)
  *[Data Binding](https://medium.com/flawless-app-stories/data-binding-in-mvvm-on-ios-714eb15e3913)
  *[MVVM Tutorial Video](https://www.youtube.com/watch?v=sWx8TtRBOfk)
