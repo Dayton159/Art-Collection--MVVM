@@ -11,7 +11,7 @@
  
  ## How to Run 
  * Download the app or just simple clone the project
- * If you want to get more data fetched go to the API Link on the project in Constant file and change the query limit
+ * If you want to get more data fetched, go to the API Link on the project in Constant file and change the query limit
  * You can run the app either on a physical device or a simulator with iOS 13 and above.
  
  ## Screenshot
