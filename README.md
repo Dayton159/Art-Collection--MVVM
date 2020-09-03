@@ -14,7 +14,7 @@
  * You can run the app either on a physical device or a simulator with iOS 13 and above.
  
  ## Screenshot
-  <img src="Images/1.png" width=300 height=500> <img src="Images/2.png" width=300 height=500>
+  <img src="Images/1.png" width=300 height=550>                                <img src="Images/2.png" width=300 height=550>
  
  ## Sources
  * [API Link](https://openaccess-api.clevelandart.org)
