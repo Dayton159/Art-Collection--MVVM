@@ -14,8 +14,8 @@
  * You can run the app either on a physical device or a simulator with iOS 13 and above.
  
  ## Screenshot
- 1. ![FirstPicture](./Users/dayton/Desktop/Apple Academy Document/Nano Challenge 3/Images/1)
- 2. ![SecondPicture](./Users/dayton/Desktop/Apple Academy Document/Nano Challenge 3/Images/2)
+ 1. ![FirstPicture](https://drive.google.com/file/d/1C2UXR_6wD4k73MiFuitwSWk4PCwGazMG/view?usp=sharing)
+ 2. ![SecondPicture](https://drive.google.com/file/d/1Epkc6jsTPpIVdjshaLZOSi6FdhJYi8gY/view?usp=sharing)
  
  ## Sources
  * [API Link](https://openaccess-api.clevelandart.org)
