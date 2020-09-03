@@ -1,0 +1,6 @@
+framework module Pods_Art_Collection__MVC {
+  umbrella header "Pods-Art Collection -MVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
